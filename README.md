@@ -3,7 +3,7 @@
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-2.5.4-brightgreen)
 ![Java](https://img.shields.io/badge/Java-17-orange)
 
-Este repositorio contiene una aplicación de ejemplo que utiliza Spring Boot y WebSocket para habilitar la comunicación en tiempo real entre el servidor y el cliente. El WebSocket es un protocolo de comunicación bidireccional que permite la transferencia de datos en tiempo real, ideal para aplicaciones de chat en línea, paneles de control en tiempo real, actualizaciones de estado en vivo, etc. Este proyecto debe ejecutarse gon el front-end del repositorio ![front-end](https://github.com/alvaro-salazar/binary-websocket-front)
+Este repositorio contiene una aplicación de ejemplo que utiliza Spring Boot y WebSocket para habilitar la comunicación en tiempo real entre el servidor y el cliente. El WebSocket es un protocolo de comunicación bidireccional que permite la transferencia de datos en tiempo real, ideal para aplicaciones de chat en línea, paneles de control en tiempo real, actualizaciones de estado en vivo, etc. Este proyecto debe ejecutarse gon el front-end del repositorio [front-end](https://github.com/alvaro-salazar/binary-websocket-front)
 
 ## ¿Qué es WebSocket?
 
