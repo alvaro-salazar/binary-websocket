@@ -47,7 +47,7 @@ Sigue estos pasos para ejecutar la aplicación:
 
 3. Ejecuta la clase WebSocketServerApplication. Esto iniciará la aplicación Spring Boot en el puerto 8080.
 
-4. Abre tu navegador web y accede a un front-end que implemente websockets para interactuar con la aplicación.
+4. Abre tu navegador web y accede al front-end que implemente websockets para interactuar con la aplicación. Puede usar este [front-end](https://github.com/alvaro-salazar/binary-websocket-front)
 
 ## Estructura del Proyecto
 
